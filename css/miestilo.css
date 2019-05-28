@@ -1,0 +1,27 @@
+
+ .comic-sans{
+   font-family: "Comic Sans"!important;
+ }
+
+ .bg-trans{
+   background-color: rgba(255,255,255,0.25);
+ }
+
+ h4{
+   color: rgb(61, 72, 149);
+ }
+
+ #dondeestamos{
+
+  background-color: rgb(176, 218, 223);
+
+ }
+
+#acordeon{
+
+  background-color:  rgb(176, 218, 223);
+}
+ /*dd{
+
+  font-size: 1.5vw;
+ }*/
